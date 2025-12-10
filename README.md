@@ -1,1 +1,0 @@
-# lichtara-license-portal
