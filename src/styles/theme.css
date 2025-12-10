@@ -1,0 +1,16 @@
+:root {
+  /* Paleta Principal */
+  --azul-profundo: #0a1a2f;
+  --dourado-ativador: #d4af37;
+  --prateado-vibrante: #c9d2d9;
+  --offwhite-tecnico: #f5f6f7;
+  --preto-cosmico: #000814;
+
+  /* Tipografia */
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Cormorant Garamond", serif;
+
+  /* Dimensões */
+  --sidebar-width: 230px;
+  --max-width: 900px;
+}

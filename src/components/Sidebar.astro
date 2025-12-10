@@ -2,18 +2,27 @@
 import menuPT from "../data/menu-pt.json";
 import menuEN from "../data/menu-en.json";
 
-// detect current language based on URL
 const pathname = Astro.url.pathname;
 const isPT = pathname.startsWith("/pt");
 const menu = isPT ? menuPT.items : menuEN.items;
 ---
 
-<aside style="padding: 1rem; border-right: 1px solid #ddd; width: 220px;">
+<aside style="
+  width: var(--sidebar-width);
+  background: var(--azul-profundo);
+  padding: 1.5rem;
+  border-right: 1px solid var(--preto-cosmico);
+">
   <nav>
-    <ul style="list-style: none; padding: 0; margin: 0;">
+    <ul style="list-style: none;">
       {menu.map(item => (
-        <li style="margin: 0.4rem 0;">
-          <a href={item.href}>{item.label}</a>
+        <li style="margin: 0.8rem 0;">
+          <a href={item.href} style="
+            color: var(--prateado-vibrante);
+            font-weight: 500;
+          ">
+            {item.label}
+          </a>
         </li>
       ))}
     </ul>
