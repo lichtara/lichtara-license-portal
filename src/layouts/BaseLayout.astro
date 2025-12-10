@@ -1,0 +1,16 @@
+---
+import Sidebar from "../components/Sidebar.astro";
+---
+
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <title><slot name="title" /></title>
+  </head>
+  <body style="display: flex; font-family: sans-serif;">
+    <Sidebar />
+    <main style="padding: 2rem; flex: 1;">
+      <slot />
+    </main>
+  </body>
+</html>
