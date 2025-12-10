@@ -1,0 +1,31 @@
+---
+const pathname = Astro.url.pathname;
+const isPT = pathname.startsWith("/pt");
+const toggleHref = isPT
+  ? pathname.replace("/pt", "/en")
+  : pathname.replace("/en", "/pt");
+const toggleLabel = isPT ? "EN" : "PT";
+---
+
+<header style="
+  width: 100%;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+">
+  <div style="font-weight: 600; font-size: 1.2rem;">
+    LICHTARA LICENSE v4
+  </div>
+
+  <nav style="display: flex; gap: 1.5rem; font-size: 0.95rem;">
+    <a href="/" style="text-decoration: none;">Home</a>
+    <a href={toggleHref} style="text-decoration: none;">{toggleLabel}</a>
+    <a href="https://github.com/lichtara/lichtara-license-4.0" style="text-decoration: none;">GitHub</a>
+  </nav>
+</header>
