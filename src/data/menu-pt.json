@@ -1,0 +1,17 @@
+{
+  "items": [
+    { "label": "Início", "href": "/pt/" },
+    { "label": "Sobre", "href": "/pt/sobre" },
+    { "label": "Como Usar", "href": "/pt/como-usar" },
+    { "label": "Permissões", "href": "/pt/permissoes" },
+    { "label": "Restrições", "href": "/pt/restricoes" },
+    { "label": "Atribuição", "href": "/pt/atribuicao" },
+    { "label": "Obras Derivadas", "href": "/pt/obras-derivadas" },
+    { "label": "FAQ", "href": "/pt/faq" },
+    { "label": "Guia de Adoção", "href": "/pt/adocao" },
+    { "label": "Guia Técnico", "href": "/pt/tecnico" },
+    { "label": "Jurídico", "href": "/pt/juridico" },
+    { "label": "Versões", "href": "/pt/versoes" },
+    { "label": "Contato", "href": "/pt/contato" }
+  ]
+}

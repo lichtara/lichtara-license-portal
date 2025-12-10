@@ -1,0 +1,17 @@
+{
+  "items": [
+    { "label": "Home", "href": "/en/" },
+    { "label": "About", "href": "/en/about" },
+    { "label": "How to Use", "href": "/en/how-to-use" },
+    { "label": "Permissions", "href": "/en/permissions" },
+    { "label": "Restrictions", "href": "/en/restrictions" },
+    { "label": "Attribution", "href": "/en/attribution" },
+    { "label": "Derivatives", "href": "/en/derivatives" },
+    { "label": "FAQ", "href": "/en/faq" },
+    { "label": "Adoption Guide", "href": "/en/adoption" },
+    { "label": "Technical Guide", "href": "/en/technical" },
+    { "label": "Legal", "href": "/en/legal" },
+    { "label": "Versions", "href": "/en/versions" },
+    { "label": "Contact", "href": "/en/contact" }
+  ]
+}
