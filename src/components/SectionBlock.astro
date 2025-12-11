@@ -1,0 +1,18 @@
+---
+const { number = "", title = "" } = Astro.props;
+---
+
+<section style="margin: 2rem 0;">
+  <h2 style="
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: var(--dourado-ativador);
+    ">
+    {number ? `${number}. ` : ""}{title}
+  </h2>
+
+  <div style="font-size: 1.05rem; line-height: 1.65; color: var(--text);">
+    <slot />
+  </div>
+</section>

@@ -1,0 +1,17 @@
+---
+const { children } = Astro.props;
+---
+
+<blockquote style="
+  margin: 2rem 0;
+  padding: 1.6rem;
+  background: rgba(212,175,55,0.08);
+  border-left: 4px solid var(--dourado-ativador);
+  color: var(--text);
+  font-style: italic;
+  font-size: 1.25rem;
+  font-family: 'Cormorant Garamond', serif;
+  border-radius: 4px;
+">
+  <slot />
+</blockquote>
