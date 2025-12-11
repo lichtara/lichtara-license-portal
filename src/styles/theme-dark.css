@@ -1,0 +1,38 @@
+/* Ajustes específicos do Modo Cósmico */
+
+.dark h1,
+.dark h2,
+.dark h3 {
+  color: var(--dourado-ativador);
+}
+
+.dark p {
+  color: var(--prateado-vibrante);
+}
+
+.dark a {
+  color: var(--dourado-ativador);
+}
+
+.dark main table th {
+  background: var(--preto-cosmico);
+  color: var(--dourado-ativador);
+}
+
+.dark main table tr:nth-child(even) {
+  background: rgba(212, 175, 55, 0.1);
+}
+
+.dark .note {
+  background: rgba(201, 210, 217, 0.08);
+  border-left-color: var(--prateado-vibrante);
+}
+
+.dark .attention {
+  background: rgba(212, 175, 55, 0.12);
+}
+
+.dark .structural {
+  background: rgba(10, 26, 47, 0.55);
+  border-left-color: var(--dourado-ativador);
+}
