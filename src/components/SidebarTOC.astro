@@ -1,0 +1,30 @@
+---
+import { slugify } from "../utils/slugify.js";
+
+const headings = Astro.slots.default?.()
+  .filter(node => node.type === "element" && /^h[1-3]$/.test(node.name))
+  .map(node => ({
+    level: Number(node.name.replace("h", "")),
+    text: node.children[0].value,
+    id: slugify(node.children[0].value)
+  }));
+---
+
+<nav>
+  <h2 style="
+      font-family: 'Cormorant Garamond', serif;
+      color: var(--dourado-ativador);
+      margin-bottom: 1rem;">
+    Sumário
+  </h2>
+
+  <ul style="list-style: none; padding-left: 0;">
+    {headings.map(({ level, text, id }) => (
+      <li style={`margin-left: ${(level - 1) * 16}px; margin-bottom: 0.6rem;`}>
+        <a href={`#${id}`} style="color: var(--sidebar-text); text-decoration: none;">
+          {text}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>

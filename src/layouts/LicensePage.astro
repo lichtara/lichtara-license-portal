@@ -1,0 +1,58 @@
+---
+import SidebarTOC from "../components/SidebarTOC.astro";
+import SectionBlock from "../components/SectionBlock.astro";
+import Callout from "../components/Callout.astro";
+import HighlightQuote from "../components/HighlightQuote.astro";
+
+const { title = "", children } = Astro.props;
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>{title} — Lichtara License v4</title>
+  </head>
+
+  <body style="display: flex; background: var(--bg); color: var(--text);">
+
+    <!-- SIDEBAR DO SUMÁRIO -->
+    <aside style="
+        width: 260px;
+        border-right: 1px solid var(--border);
+        padding: 1.5rem;
+        position: sticky;
+        top: 0;
+        height: 100vh;
+        overflow-y: auto;
+        background: var(--sidebar-bg);
+      ">
+      <SidebarTOC />
+    </aside>
+
+    <!-- ÁREA PRINCIPAL -->
+    <main style="flex: 1; padding: 2.5rem 3rem; max-width: 900px; margin: 0 auto;">
+      <h1 style="
+          font-family: 'Cormorant Garamond', serif;
+          font-size: 3rem;
+          margin-bottom: 1rem;
+          color: var(--dourado-ativador);
+        ">
+        {title}
+      </h1>
+
+      <p style="
+          color: var(--text);
+          margin-bottom: 2rem;
+          font-size: 1.1rem;
+        ">
+        Documento oficial da Lichtara License v4 — Structural Living License.
+      </p>
+
+      <!-- CONTEÚDO DINÂMICO -->
+      <div class="content">
+        <slot />
+      </div>
+    </main>
+
+  </body>
+</html>
