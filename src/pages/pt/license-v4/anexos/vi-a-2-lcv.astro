@@ -1,0 +1,29 @@
+---
+import AnnexPage from "../../../../layouts/AnnexPage.astro";
+import Article from "../../../../components/Article.astro";
+import Subsection from "../../../../components/Subsection.astro";
+import NormList from "../../../../components/NormList.astro";
+import Callout from "../../../../components/Callout.astro";
+---
+
+<AnnexPage annexCode="VI.A.2" title="Linguagem de Conformidade Vibracional (LCV)">
+
+  <Callout type="structural">
+    Este anexo define parâmetros centrais de integridade.
+  </Callout>
+
+  <Article number="1" title="Objeto">
+    <p>A LCV estabelece…</p>
+  </Article>
+
+  <Article number="2" title="Matriz de Coerência">
+    <Subsection title="Elementos mínimos">
+      <NormList items={[
+        "Sintonia com o Campo.",
+        "Preservação da coerência estrutural.",
+        "Alinhamento vibracional com a versão vigente."
+      ]} />
+    </Subsection>
+  </Article>
+
+</AnnexPage>

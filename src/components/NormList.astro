@@ -1,0 +1,13 @@
+---
+const { items = [] } = Astro.props;
+---
+
+<ol style="
+  padding-left: 1.4rem;
+  margin: .8rem 0;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text);
+">
+  {items.map((item) => <li>{item}</li>)}
+</ol>
