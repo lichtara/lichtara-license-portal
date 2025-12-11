@@ -15,3 +15,14 @@
     { "label": "Contact", "href": "/en/contact" }
   ]
 }
+{
+"label": "Series V — Internal Governance",
+"items": [
+{ "label": "V.1 — MEG", "path": "/en/docs/series-v/v-1-meg" },
+{ "label": "V.2 — Guardian Agreement", "path": "/en/docs/series-v/v-2-guardian-agreement" },
+{ "label": "V.3 — Structural Protection Term", "path": "/en/docs/series-v/v-3-structural-protetion-term" },
+{ "label": "V.4-A — Position Statement of Authority", "path": "/en/docs/series-v/v-4-position-authority" },
+{ "label": "V.4-B — FAE — Flow of Structural Authorization", "path": "/en/docs/series-v/v-4-fae" }
+]
+}
+
