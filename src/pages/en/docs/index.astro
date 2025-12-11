@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Card from "../../../components/Card.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+---
+
+<BaseLayout title="Lichtara License Documentation">
+
+  <Breadcrumb items={[
+    { label: "Home", href: "/" },
+    { label: "Documentation", href: "/en/docs" }
+  ]} />
+
+  <h1 style="
+    font-family: 'Cormorant Garamond', serif;
+    color: var(--dourado-ativador);
+    font-size: 2.6rem;
+    margin-bottom: 1rem;
+  ">
+    Lichtara License v4 — Documentation Hub
+  </h1>
+
+  <p style="margin-bottom: 2rem; font-size: 1.1rem;">
+    Welcome to the central knowledge and governance hub of the Lichtara License v4 — Structural Living License.
+  </p>
+
+  <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+
+    <Card title="Lichtara License v4 — Official Document" href="/en/license-v4">
+      The core structural-legal document of the Lichtara System.
+    </Card>
+
+    <Card title="Series VI — Structural Annexes" href="/en/license-v4/annexes">
+      PER, LCV, MHA, Impact Reports and Certification.
+    </Card>
+
+    <Card title="Series V — Internal Legal Framework" href="/en/docs/series-v">
+      Internal directives, guardianship agreements and institutional sovereignty.
+    </Card>
+
+    <Card title="Official FAQ" href="/en/faq">
+      Frequently asked questions on usage and permissions.
+    </Card>
+
+    <Card title="Adoption Guide" href="/en/docs/adoption">
+      How to study, use and integrate License v4.
+    </Card>
+
+    <Card title="Technical Guide — Developers" href="/en/docs/dev">
+      Technical specifications, integrations and portal architecture.
+    </Card>
+
+    <Card title="Versions & DOIs" href="/en/docs/versions">
+      Official version history and DOIs of License v4.
+    </Card>
+
+    <Card title="Structural Glossary" href="/en/docs/glossary">
+      Fundamental terms of the LICHTARA ecosystem.
+    </Card>
+
+    <Card title="Contact & Permissions" href="/en/docs/contact">
+      Communication channels and authorization procedures.
+    </Card>
+
+  </section>
+
+</BaseLayout>

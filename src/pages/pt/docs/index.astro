@@ -1,0 +1,67 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import Card from "../../../components/Card.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+---
+
+<BaseLayout title="Documentação da Lichtara License v4">
+
+  <Breadcrumb items={[
+    { label: "Home", href: "/" },
+    { label: "Documentação", href: "/pt/docs" }
+  ]} />
+
+  <h1 style="
+    font-family: 'Cormorant Garamond', serif;
+    color: var(--dourado-ativador);
+    font-size: 2.6rem;
+    margin-bottom: 1rem;
+  ">
+    Documentação Oficial — Lichtara License v4
+  </h1>
+
+  <p style="margin-bottom: 2rem; font-size: 1.1rem;">
+    Bem-vinda ao hub de conhecimento, governança e arquitetura estrutural da Lichtara License v4 — Structural Living License.
+  </p>
+
+  <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 2rem;">
+
+    <Card title="Lichtara License v4 — Documento Oficial" href="/pt/license-v4">
+      O documento jurídico-estrutural central do Sistema Lichtara.
+    </Card>
+
+    <Card title="Série VI — Anexos Estruturais" href="/pt/license-v4/anexos">
+      PER, LCV, MHA, Relatórios de Impacto e Certificação.
+    </Card>
+
+    <Card title="Série V — Jurídico Interno da Guardiã" href="/pt/docs/serie-v">
+      Diretrizes internas, acordos de guarda e soberania institucional.
+    </Card>
+
+    <Card title="FAQ Oficial" href="/pt/faq">
+      Perguntas frequentes sobre uso, atribuição e permissões.
+    </Card>
+
+    <Card title="Guia de Adoção" href="/pt/docs/adocao">
+      Como estudar, utilizar e integrar a License v4.
+    </Card>
+
+    <Card title="Guia Técnico — Desenvolvedores" href="/pt/docs/dev">
+      Orientações técnicas, integrações e arquitetura do Portal.
+    </Card>
+
+    <Card title="Versões & DOIs" href="/pt/docs/versoes">
+      Histórico oficial de versões da License v4 e seus DOIs.
+    </Card>
+
+    <Card title="Glossário Estrutural" href="/pt/docs/glossario">
+      Termos fundamentais do ecossistema LICHTARA.
+    </Card>
+
+    <Card title="Contato & Autorizações" href="/pt/docs/contato">
+      Diretivas formais de solicitação e permissões especiais.
+    </Card>
+
+  </section>
+
+</BaseLayout>
