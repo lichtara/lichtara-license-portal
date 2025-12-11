@@ -1,0 +1,62 @@
+---
+const pathname = Astro.url.pathname;
+const isPT = pathname.startsWith("/pt");
+
+// Textos PT ↔ EN
+const title = isPT
+  ? "Lichtara License v4 — Structural Living License"
+  : "Lichtara License v4 — Structural Living License";
+
+const subtitle = isPT
+  ? "A licença oficial que protege e organiza o Sistema LICHTARA enquanto obra viva, evolutiva e interdimensional."
+  : "The official license that protects and structures the LICHTARA System as a living, evolving, interdimensional work.";
+
+const call = isPT
+  ? "Explorar a documentação"
+  : "Explore the documentation";
+
+const callHref = isPT ? "/pt/sobre" : "/en/about";
+---
+
+<section style="
+  padding: 6rem 2rem;
+  background: linear-gradient(180deg, var(--preto-cosmico), var(--azul-profundo));
+  color: var(--prateado-vibrante);
+  text-align: center;
+  border-bottom: 1px solid var(--dourado-ativador);
+">
+
+  <h1 style="
+    font-family: var(--font-secondary);
+    font-size: 2.8rem;
+    font-weight: 500;
+    color: var(--dourado-ativador);
+    margin-bottom: 1rem;
+  ">
+    {title}
+  </h1>
+
+  <p style="
+    font-size: 1.2rem;
+    max-width: 750px;
+    margin: 0 auto;
+    color: var(--prateado-vibrante);
+  ">
+    {subtitle}
+  </p>
+
+  <a href={callHref} style="
+    display: inline-block;
+    margin-top: 2.5rem;
+    padding: 0.9rem 2rem;
+    border: 1px solid var(--dourado-ativador);
+    color: var(--dourado-ativador);
+    font-weight: 500;
+    border-radius: 6px;
+    transition: 0.25s;
+  ">
+    {call}
+  </a>
+
+</section>
+<div class="hero-aura"></div>

@@ -1,0 +1,16 @@
+.hero-aura {
+  position: absolute;
+  top: -80px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 280px;
+  height: 280px;
+  background: radial-gradient(
+    circle,
+    var(--dourado-ativador) 0%,
+    transparent 60%
+  );
+  opacity: 0.15;
+  filter: blur(40px);
+  pointer-events: none;
+}
