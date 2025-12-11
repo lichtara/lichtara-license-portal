@@ -3,7 +3,6 @@ import SidebarTOC from "../components/SidebarTOC.astro";
 import SectionBlock from "../components/SectionBlock.astro";
 import Callout from "../components/Callout.astro";
 import HighlightQuote from "../components/HighlightQuote.astro";
-
 const { title = "", children } = Astro.props;
 ---
 
@@ -39,6 +38,16 @@ const { title = "", children } = Astro.props;
         ">
         {title}
       </h1>
+---
+import Breadcrumb from "../components/Breadcrumb.astro";
+---
+
+<main ...>
+  <Breadcrumb items={[
+    { label: "Home", href: "/" },
+    { label: "Documentação", href: "/pt" },
+    { label: "License v4", href: "/pt/license-v4" }
+  ]} />
 
       <p style="
           color: var(--text);
