@@ -1,0 +1,32 @@
+---
+const { type = "note", title = "", children } = Astro.props;
+
+const map = {
+  note: {
+    border: "var(--prateado-vibrante)",
+    bg: "rgba(201,210,217,0.10)",
+    title: "Nota"
+  },
+  attention: {
+    border: "var(--dourado-ativador)",
+    bg: "rgba(212,175,55,0.12)",
+    title: "Atenção"
+  },
+  structural: {
+    border: "var(--azul-profundo)",
+    bg: "rgba(10,26,47,0.10)",
+    title: "Estrutural"
+  }
+};
+
+const style = map[type];
+---
+
+<div style={`border-left: 4px solid ${style.border}; padding: 1rem; margin: 1.2rem 0; background: ${style.bg}; border-radius: 4px;`}>
+  <strong style="font-family: 'Cormorant Garamond', serif; font-size: 1.1rem; color: var(--header-text);">
+    {title || style.title}
+  </strong>
+  <div style="margin-top: 0.4rem; color: var(--text); font-size: 0.95rem;">
+    <slot />
+  </div>
+</div>
