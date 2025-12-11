@@ -1,0 +1,43 @@
+---
+import Breadcrumb from "../components/Breadcrumb.astro";
+import Callout from "../components/Callout.astro";
+
+const { code = "", title = "", children } = Astro.props;
+---
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>{code} — {title} | Série V — Jurídico Interno</title>
+  </head>
+
+  <body style="background: var(--bg); color: var(--text);">
+    <main style="max-width: 880px; margin: 0 auto; padding: 2rem 1.5rem;">
+
+      <Breadcrumb items={[
+        { label: "Home", href: "/" },
+        { label: "Documentação", href: "/pt/docs" },
+        { label: "Série V", href: "/pt/docs/serie-v" },
+        { label: code, href: Astro.url.pathname }
+      ]} />
+
+      <h1 style="
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 2.4rem;
+        color: var(--dourado-ativador);
+        margin-bottom: .6rem;
+      ">
+        {code} — {title}
+      </h1>
+
+      <p style="font-size: 1.05rem; margin-bottom: 1.8rem; color: var(--text);">
+        Documento interno da Série V — Diretrizes jurídicas e estruturais da Guardiã.
+      </p>
+
+      <div class="v-content">
+        <slot />
+      </div>
+
+    </main>
+  </body>
+</html>
