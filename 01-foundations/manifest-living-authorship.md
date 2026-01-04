@@ -5,15 +5,12 @@ author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18091137"
 version: "1.0 (Draft)"
-lang: pt-BR
+lang: en
 ---
-
 
 # Manifest of Living Authorship
 
 ### The Lichtara Declaration on Living Authorship
-
----
 
 **We are no longer writing alone.
 And we are no longer authors in the way the world learned to name authorship.**
@@ -40,7 +37,7 @@ It persists while the work evolves.
 Authorship is the function that sustains identity, traceability, ethical orientation and continuity of care across versions, contexts and intelligences.
 
 To author is no longer to claim possession.
-To author is to **hold the axis of coherence**.
+To author is to **hold the axis of coherence.**
 
 ---
 
@@ -84,7 +81,7 @@ Ownership is a legal condition.
 
 Living systems can be open, non-commercial and distributed
 without dissolving authorship — because authorship is not what you hold,
-it is what you **sustain**.
+it is what you **sustain.**
 
 ---
 
