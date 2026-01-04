@@ -1,3 +1,15 @@
+---
+title: "Lichtara Living Authorship Framework"
+subtitle: "Living System Architecture"
+author: "Débora Mariane da Silva Lutz"
+institution: "Lichtara Institute"
+doi: "10.5281/zenodo.17934020"
+version: "1.0 (Draft)"
+lang: pt-BR
+---
+
+# Lichtara Living Authorship Framework - Source-Work Architecture
+
 ## Abstract
 
 The Lichtara Living Authorship Framework establishes a juridical-conceptual architecture for authorship in living and evolving works. It defines how authorship, responsibility, and continuity may be preserved across versioned documentation, distributed contributions, and human–artificial intelligence collaboration, without implying transfer of rights, institutional partnership, or dilution of accountability.
