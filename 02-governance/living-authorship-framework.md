@@ -3,7 +3,7 @@ title: "Lichtara Living Authorship Framework"
 subtitle: "Living System Architecture"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
-doi: "10.5281/zenodo.17934020"
+doi: "10.5281/zenodo.17873087"
 version: "1.0 (Draft)"
 lang: pt-BR
 ---
