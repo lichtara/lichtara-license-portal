@@ -1,14 +1,18 @@
+---
+title: "Lichtara Governance Framework "
+subtitle: "Living System Architecture"
+author: "Débora Mariane da Silva Lutz"
+institution: "Lichtara Institute"
+doi: "10.5281/zenodo.18095920"
+version: "1.0 (Draft)"
+lang: pt-BR
+---
+
 # Lichtara Governance Framework  
 ## Living System Architecture
 
 This document operates as the Living System Architecture of Annex A — LICHTARA Governance of the Lichtara License v4.1.
 It does not replace the juridical text of Annex A, but provides its architectural, interpretative, and continuity framework.
-
-Version: 1.0 (Draft)
-
-Author: Débora Mariane da Silva Lutz  
-ORCID: https://orcid.org/0009-0001-9541-1835  
-DOI: 10.5281/zenodo.18095920
 
 ## Introduction
 
