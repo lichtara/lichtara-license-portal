@@ -1,11 +1,30 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import Hero from "../../components/Hero.astro";
+import VPage from "../../layouts/VPage.astro";
 ---
 
-<BaseLayout>
-  <Hero />
+<VPage title="Fundamentos">
 
-  <h2>Documentação</h2>
-  <p>Escolha uma das seções no menu lateral para navegar pela License v4.</p>
-</BaseLayout>
+  <p>
+    Esta seção reúne os textos fundadores do campo Lichtara.
+    Aqui não se aprende a usar — aqui se aprende a reconhecer limites,
+    assumir autoria e sustentar coerência ao longo do tempo.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Carta de Não-Função</strong><br/>
+      <a href="/01-foundations/carta-nao-funcao.md">Acessar documento</a>
+    </li>
+
+    <li>
+      <strong>Manifesto de Autoria Viva</strong> <em>(disponível apenas em inglês)</em><br/>
+      <a href="/01-foundations/manifest-living-authorship.md">Acessar manifesto</a>
+    </li>
+
+    <li>
+      <strong>Livro do Limite</strong> <em>(documento em gestação)</em><br/>
+      Este texto ainda não foi publicado. Sua ausência faz parte da arquitetura viva do sistema.
+    </li>
+  </ul>
+
+</VPage>
