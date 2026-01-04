@@ -1,28 +1,13 @@
 {
   "items": [
     { "label": "Home", "href": "/en/" },
-    { "label": "About", "href": "/en/about" },
-    { "label": "How to Use", "href": "/en/how-to-use" },
-    { "label": "Permissions", "href": "/en/permissions" },
-    { "label": "Restrictions", "href": "/en/restrictions" },
-    { "label": "Attribution", "href": "/en/attribution" },
-    { "label": "Derivatives", "href": "/en/derivatives" },
-    { "label": "FAQ", "href": "/en/faq" },
-    { "label": "Adoption Guide", "href": "/en/adoption" },
-    { "label": "Technical Guide", "href": "/en/technical" },
-    { "label": "Legal", "href": "/en/legal" },
+    { "label": "Foundations", "href": "/en/foundations" },
+    { "label": "Governance", "href": "/en/governance" },
+    { "label": "Licenses", "href": "/en/licenses" },
+    { "label": "Practices", "href": "/en/practices" },
+    { "label": "Activation", "href": "/en/activation" },
+    { "label": "Series V", "href": "/en/docs/series-v" },
     { "label": "Versions", "href": "/en/versions" },
     { "label": "Contact", "href": "/en/contact" }
   ]
 }
-{
-"label": "Series V — Internal Governance",
-"items": [
-{ "label": "V.1 — MEG", "path": "/en/docs/series-v/v-1-meg" },
-{ "label": "V.2 — Guardian Agreement", "path": "/en/docs/series-v/v-2-guardian-agreement" },
-{ "label": "V.3 — Structural Protection Term", "path": "/en/docs/series-v/v-3-structural-protetion-term" },
-{ "label": "V.4-A — Position Statement of Authority", "path": "/en/docs/series-v/v-4-position-authority" },
-{ "label": "V.4-B — FAE — Flow of Structural Authorization", "path": "/en/docs/series-v/v-4-fae" }
-]
-}
-
