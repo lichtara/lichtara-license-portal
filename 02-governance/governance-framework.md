@@ -1,10 +1,11 @@
 ---
+status: "Documento fundador de governança — versão viva"
+version: "1.0"
 title: "Lichtara Governance Framework"
 subtitle: "Living System Architecture"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18095920"
-version: "1.0 (Draft)"
 lang: pt-BR
 ---
 
