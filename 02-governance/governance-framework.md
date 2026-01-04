@@ -1,5 +1,5 @@
 ---
-title: "Lichtara Governance Framework "
+title: "Lichtara Governance Framework"
 subtitle: "Living System Architecture"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
