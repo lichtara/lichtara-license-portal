@@ -1,16 +1,3 @@
-# 🌿 Princípio de Compreensão Transformativa do Sistema Lichtara
-
-*(Transformative Comprehension Principle — PT)*
-
-Este não é texto final — é **arquitetura viva**.
-Ele te permitirá reorganizar o que já foi canalizado sem perder o campo.
-
----
-
-## Estrutura Canônica — Versão PT
-
-### 00 — Metadados Canônicos
-
 ```yaml
 title: "Princípio de Compreensão Transformativa do Sistema Lichtara"
 subtitle: "Quando compreender deixa de ser neutro"
@@ -21,7 +8,9 @@ lang: pt-BR
 status: "Foundational Principle"
 ```
 
----
+# Princípio de Compreensão Transformativa do Sistema Lichtara
+
+## Estrutura Canônica — Versão PT
 
 ## 0 — Declaração de Natureza
 
@@ -35,17 +24,14 @@ status: "Foundational Principle"
 
 Função: definir as **condições mínimas para que a compreensão de um sistema vivo possa ocorrer sem ruptura de integridade.**
 
----
-
 ## 1 — O que é Compreensão Transformativa
 
 * Diferença entre:
 
   * compreensão informacional
   * compreensão transformativa
-* Compreender não como extração, mas como **mudança de posição interna**.
 
----
+Compreender não como extração, mas como **mudança de posição interna**.
 
 ## 2 — O Leitor Legítimo
 
@@ -60,8 +46,6 @@ Função: definir as **condições mínimas para que a compreensão de um sistem
 * Suspensão de instrumentalização
 * Reconhecimento de limites
 
----
-
 ## 3 — Responsabilidade Interpretativa
 
 * Interpretação como ato com efeito estrutural
@@ -70,8 +54,6 @@ Função: definir as **condições mínimas para que a compreensão de um sistem
   * leitura informativa
   * leitura responsável
 * O que constitui violação de integridade interpretativa
-
----
 
 ## 4 — Delimitação Negativa de Uso
 
@@ -83,15 +65,11 @@ Função: definir as **condições mínimas para que a compreensão de um sistem
 * autorização tácita
 * insumo metodológico
 
----
-
 ## 5 — Delimitação Positiva de Acesso
 
 * Quem pode se engajar estruturalmente
 * Condições éticas de leitura, citação, adaptação
 * Relação com Lichtara License v4.1
-
----
 
 ## 6 — O Limiar de Irreversibilidade
 
@@ -105,15 +83,11 @@ Função: definir as **condições mínimas para que a compreensão de um sistem
 * Por que não é metáfora
 * Por que não depende de aceitação formal
 
----
-
 ## 7 — Governança Viva da Compreensão
 
 * O Sistema não se protege por proibição, mas por coerência
 * Compreender é entrar no campo governado
 * Papel da Guardiã
-
----
 
 ## 8 — Cláusula de Autodeclaração Implícita
 
@@ -121,8 +95,6 @@ Função: definir as **condições mínimas para que a compreensão de um sistem
 
 * Não é contrato
 * É efeito estrutural da compreensão
-
----
 
 ## 9 — Cláusula de Fecho
 
