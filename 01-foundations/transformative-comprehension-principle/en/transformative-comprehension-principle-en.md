@@ -1,11 +1,3 @@
-# 🌿 Transformative Comprehension Principle — Lichtara System
-
-*(Canonical Skeleton — EN)*
-
----
-
-## 00 — Canonical Metadata
-
 ```yaml
 title: "Transformative Comprehension Principle of the Lichtara System"
 subtitle: "When understanding ceases to be neutral"
@@ -16,7 +8,7 @@ lang: en
 status: "Foundational Principle"
 ```
 
----
+# Transformative Comprehension Principle — Lichtara System
 
 ### 0 — Declaration of Nature
 
@@ -33,9 +25,6 @@ It is **not**:
 
 Its function is to define the **minimum conditions under which the comprehension of a living system may occur without rupture of structural integrity**.
 
-
----
-
 ## 1 — What Transformative Comprehension Is
 
 * Distinction between:
@@ -43,8 +32,6 @@ Its function is to define the **minimum conditions under which the comprehension
   * informational understanding
   * transformative comprehension
 * Understanding as **positional change**, not extraction.
-
----
 
 ### 2 — The Legitimate Reader
 
@@ -58,8 +45,6 @@ A legitimate reader is one who approaches this document with an interpretative p
 
 Legitimacy therefore arises from stance, not from recognition.
 
----
-
 #### 2.2 — Conditions of Interpretative Access
 
 Access to this document is open, but comprehension is conditional.
@@ -71,8 +56,6 @@ Interpretative access requires:
 * recognition of the limits of one’s own authority and scope of action in relation to the System.
 
 Without these conditions, reading remains possible — but comprehension, in the structural sense defined by this framework, does not occur.
-
----
 
 ### 3 — Interpretative Responsibility
 
@@ -88,8 +71,6 @@ It is **produced in relation**, and therefore carries consequences.
 
 Within this framework, interpretation constitutes an intervention in the structural coherence of the work.
 
----
-
 #### 3.2 — Informational Reading and Responsible Reading
 
 A distinction must be maintained between two modes of reading:
@@ -101,8 +82,6 @@ occurs when the text is approached as content to be consumed, summarized, extrac
 occurs when the reader recognizes that comprehension generates obligation — to preserve coherence, respect scope, and refrain from representational overreach.
 
 Only responsible reading constitutes legitimate interpretative access.
-
----
 
 #### 3.3 — Violations of Interpretative Integrity
 
@@ -116,8 +95,6 @@ Interpretative integrity is violated whenever engagement with this document resu
 
 Such violations may occur without malicious intent.
 They nevertheless constitute **structural incoherence** within the System.
-
----
 
 ### 4 — Negative Delimitation of Use
 
@@ -133,8 +110,6 @@ Accordingly, this document **shall not be treated as**:
 * a methodological or operational input to be extracted or instrumentalized.
 
 Any use that collapses this framework into one of the above categories constitutes a violation of its structural function and compromises the integrity of the System to which it belongs.
-
----
 
 ### 5 — Positive Delimitation of Access
 
@@ -165,8 +140,6 @@ All engagement with this document is governed by the **Lichtara License v4.1 —
 This framework does not replace the License.
 It operates in **formal coherence** with it, providing the epistemic and interpretative substrate that sustains ethical and structural legitimacy within the Lichtara System.
 
----
-
 ## 6 — The Threshold of Irreversibility
 
 ### 6.1 — What It Means to Cross the Threshold
@@ -188,8 +161,6 @@ Irreversibility therefore does not arise from obligation imposed by the document
 To comprehend is to be re-situated.
 
 From this point forward, all acts of reading, citation, adaptation, or interpretation occur within the field of responsibility defined by the Lichtara System, whether or not this responsibility is explicitly acknowledged.
-
----
 
 ## 7 — Living Governance of Comprehension
 
@@ -227,8 +198,6 @@ No interpretation, derivative articulation, or systemic expansion may claim stru
 The System remains open, alive, and non-commercial —
 but it is governed by coherence, not by permission.
 
----
-
 ## 8 — Implicit Self-Declaration Clause
 
 > *“By proceeding, I acknowledge that I am no longer neutral in relation to this System.”*
@@ -255,8 +224,6 @@ not as a mechanism of control, but as a marker of responsibility.
 
 The System does not bind through signatures.
 It binds through **structural coherence and lived comprehension**.
-
----
 
 ## 9 — Closing Clause
 
