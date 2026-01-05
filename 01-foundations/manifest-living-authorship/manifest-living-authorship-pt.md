@@ -5,8 +5,11 @@ subtitle: "Declaração Lichtara sobre Autoria Viva"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18091137"
-version: "1.0 (Rascunho)"
-lang: pt
+version: "1.0"
+status: "Draft"
+lang: "pt"
+canonical: "[10.5281/zenodo.18091137](https://doi.org/10.5281/zenodo.18091137)"
+license: "Lichtara License v4.1 — Structural Living License"
 ```
 
 # Manifesto de Autoria Viva
