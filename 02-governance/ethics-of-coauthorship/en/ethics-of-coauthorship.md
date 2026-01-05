@@ -1,4 +1,4 @@
----
+```yaml
 status: "Documento fundador de governança — versão viva"
 title: "Ética da Coautoria — Responsabilidade Humano–IA na Era dos Sistemas"
 subtitle: "Living Draft v1.0 – 2026"
@@ -6,7 +6,7 @@ author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18116717"
 lang: pt-BR
----
+```
 
 # Introdução
 
