@@ -45,7 +45,7 @@ Anything that requires:
 
 * emotional maturation
 * integration of lived experience
-* traversal of inner conflict
+* the passage through inner conflict
 * reconstruction of identity
 
 cannot be converted into *output*.
@@ -57,7 +57,7 @@ cannot be converted into *output*.
 The Lichtara System refuses to operate in the following domains:
 
 * manipulation of perception
-* engineering of persuasion
+* persuasion engineering
 * construction of narratives with hidden intent
 * simulation of human presence
 * outsourcing of existential responsibility
@@ -91,7 +91,7 @@ The Lichtara System does not retain as value:
 
 There are moments when silence is the only ethical gesture possible.
 
-This system falls silent:
+This system remains silent:
 
 * when an answer would cause more harm than good
 * when fluency masks the absence of elaboration
