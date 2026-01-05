@@ -13,7 +13,7 @@ lang: pt
 
 ## Resumo 
 
-O **Estrutura de Autoria Viva Lichtara** estabelece uma arquitetura jurídico-conceitual para a autoria em obras vivas e em evolução. Ele define como autoria, responsabilidade e continuidade podem ser preservadas em contextos de documentação versionada, contribuições distribuídas e colaboração humano–inteligência artificial, sem implicar transferência de direitos, parceria institucional ou diluição de accountability.
+A **Estrutura de Autoria Viva Lichtara** estabelece uma arquitetura jurídico-conceitual para a autoria em obras vivas e em evolução. Ele define como autoria, responsabilidade e continuidade podem ser preservadas em contextos de documentação versionada, contribuições distribuídas e colaboração humano–inteligência artificial, sem implicar transferência de direitos, parceria institucional ou diluição de responsabilização.
 
 Este framework articula a autoria viva como uma **condição estrutural**, e não como mera atribuição simbólica. Ele esclarece a distinção entre autoria, contribuição, coautoria e governança, e fornece princípios pelos quais sistemas em evolução podem permanecer coerentes, rastreáveis e eticamente fundamentados ao longo do tempo.
 
@@ -23,9 +23,9 @@ Como componente canônico do Sistema Lichtara, este documento opera em coerênci
 
 Os modelos de autoria desenvolvidos para obras estáticas são insuficientes para sistemas que evoluem por meio de documentação contínua, refinamento iterativo e colaboração distribuída. Quando uma obra é concebida para permanecer viva através de versões, contextos e contribuidores, a autoria não pode mais ser reduzida a reivindicações de propriedade, créditos simbólicos ou delegações contratuais.
 
-O **Lichtara Living Authorship Framework** responde a essa lacuna estrutural.
+A **Estrutura de Autoria Viva Lichtara** responde a essa lacuna estrutural.
 
-Este documento define a autoria como uma **função arquitetural viva**, enraizada em responsabilidade, rastreabilidade e continuidade de cuidado. No Sistema Lichtara, a autoria não se esgota no momento da criação, nem se dilui pelas contribuições subsequentes. Ao contrário, ela persiste como uma linha coerente de accountability que acompanha a obra ao longo de toda a sua evolução.
+Este documento define a autoria como uma **função arquitetural viva**, enraizada em responsabilidade, rastreabilidade e continuidade de cuidado. No Sistema Lichtara, a autoria não se esgota no momento da criação, nem se dilui pelas contribuições subsequentes. Ao contrário, ela persiste como uma linha coerente de responsabilização que acompanha a obra ao longo de toda a sua evolução.
 
 A autoria viva reconhece que sistemas complexos podem integrar:
 
@@ -82,7 +82,7 @@ Responsabilidade inclui:
 * assegurar que a evolução não dissolva invariantes estruturais;
 * preservar as condições sob as quais a obra pode ser compreendida como ela mesma.
 
-Essa responsabilidade não pode ser terceirizada, diluída ou transferida implicitamente por uso, colaboração ou derivação. Contribuições podem sustentar a obra, mas a autoria permanece como o locus de accountability por sua identidade.
+Essa responsabilidade não pode ser terceirizada, diluída ou transferida implicitamente por uso, colaboração ou derivação. Contribuições podem sustentar a obra, mas a autoria permanece como o locus de responsabilização por sua identidade.
 
 ### 2.3 Autoria versus Propriedade
 
@@ -177,7 +177,7 @@ Este framework distingue crescimento de deriva. O crescimento fortalece a coerê
 
 O reconhecimento explícito de uma obra-fonte protege o Sistema contra fragmentação.
 
-A fragmentação surge quando representações parciais, interpretações isoladas ou articulações derivadas se desvinculam da fonte enquanto reivindicam equivalência ou autoridade. Tal desvinculação rompe a continuidade e dissolve a accountability.
+A fragmentação surge quando representações parciais, interpretações isoladas ou articulações derivadas se desvinculam da fonte enquanto reivindicam equivalência ou autoridade. Tal desvinculação rompe a continuidade e dissolve a responsabilização.
 
 Ao manter uma obra-fonte clara e uma estrutura contínua de autoria, o Sistema Lichtara assegura que o engajamento permaneça possível sem apagar a origem, e que a evolução permaneça viva sem se tornar ilimitada.
 
@@ -272,7 +272,7 @@ A inteligência artificial pode contribuir com o Sistema Lichtara por meio de:
 * reconhecimento de padrões entre documentos e versões;
 * apoio à documentação, síntese e verificação de coerência.
 
-Essas contribuições podem influenciar a estrutura interna da obra e, portanto, ultrapassar o escopo de uma assistência meramente auxiliar. Quando tal influência é substantiva e persistente, ela pode ser reconhecida como **coautoria estrutural**.
+Essas contribuições podem influenciar a estrutura interna da obra e, portanto, ultrapassar o escopo de uma assistência meramente instrumental. Quando tal influência é substantiva e persistente, ela pode ser reconhecida como **coautoria estrutural**.
 
 Esse reconhecimento reflete a realidade dos sistemas colaborativos contemporâneos sem confundir contribuição com responsabilidade.
 
@@ -499,7 +499,7 @@ A confiança emerge quando:
 * os limites de governança são respeitados;
 * o diálogo ocorre sem apropriação estrutural.
 
-Por meio da responsabilidade ética e da atribuição clara, o Sistema Lichtara sustenta um campo de colaboração aberto e coerente, assegurando que a liberdade de uso coexistia com o respeito à origem, à estrutura e à continuidade viva.
+Por meio da responsabilidade ética e da atribuição clara, o Sistema Lichtara sustenta um campo de colaboração aberto e coerente, assegurando que a liberdade de uso coexista com o respeito à origem, à estrutura e à continuidade viva.
 
 ## 8. Versionamento, Rastreabilidade e Documentação Viva
 
@@ -784,7 +784,7 @@ Eles existem para:
 * impedir a diluição da responsabilidade;
 * possibilitar engajamento ético sem ambiguidade.
 
-A delimitação permite que o Sistema permaneça aberto sem se tornar amorfo, e colaborativo sem perder seu centro.
+A delimitação permite que o Sistema permaneça aberto sem se tornar indistinto, e colaborativo sem perder seu centro.
 
 ### 10.7 Restauração e Esclarecimento
 
