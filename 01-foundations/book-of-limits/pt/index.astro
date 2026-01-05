@@ -1,0 +1,30 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Manifesto from "./manifesto-living-authorship-pt.md";
+
+const title = "Manifesto de Autoria Viva";
+const description = "Declaração Lichtara sobre Autoria Viva";
+const lang = "pt";
+---
+
+<BaseLayout title={title} description={description} lang={lang}>
+
+  <article class="document manifesto">
+
+    <header>
+      <h1>{title}</h1>
+      <h2>{description}</h2>
+    </header>
+
+    <section class="content">
+      <Manifesto />
+    </section>
+
+    <footer class="document-meta">
+      <p><strong>DOI:</strong> 10.5281/zenodo.18091137</p>
+      <p>Lichtara Institute</p>
+    </footer>
+
+  </article>
+
+</BaseLayout>
