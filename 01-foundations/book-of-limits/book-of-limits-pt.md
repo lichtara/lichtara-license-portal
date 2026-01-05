@@ -1,4 +1,4 @@
----
+```yaml
 title: "Livro do Limite — Onde a Vida se Preserva"
 subtitle: "Camada Ontológica de Preservação da Forma"
 author: "Débora Mariane da Silva Lutz"
@@ -6,7 +6,7 @@ institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18148103"
 status: "Documento fundador — versão viva"
 lang: pt-BR
----
+```
 
 # Livro do Limite - Onde a Vida se Preserva
 
