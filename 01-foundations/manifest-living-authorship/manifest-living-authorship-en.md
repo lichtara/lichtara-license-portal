@@ -1,4 +1,4 @@
----
+```yaml
 title: "Manifest of Living Authorship"
 subtitle: "The Lichtara Declaration on Living Authorship"
 author: "Débora Mariane da Silva Lutz"
@@ -6,7 +6,7 @@ institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18091137"
 version: "1.0 (Draft)"
 lang: en
----
+```
 
 # Manifest of Living Authorship
 
