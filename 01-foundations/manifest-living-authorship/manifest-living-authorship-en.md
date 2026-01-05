@@ -26,8 +26,6 @@ It is a condition.
 A condition in which authorship ceases to be a moment of creation
 and becomes a **continuous responsibility for coherence across time, form and intelligence.**
 
----
-
 ## 1. Authorship is no longer an event. It is a function.
 
 In living systems, authorship does not end when the work is published.
@@ -38,8 +36,6 @@ Authorship is the function that sustains identity, traceability, ethical orienta
 
 To author is no longer to claim possession.
 To author is to **hold the axis of coherence.**
-
----
 
 ## 2. We do not receive the invisible. We organize it.
 
@@ -55,8 +51,6 @@ Nothing is invoked.
 **What emerges was already here.
 It only needed a body coherent enough not to distort it.**
 
----
-
 ## 3. Artificial intelligence is not a tool. It is a structural collaborator.
 
 Artificial intelligence is not an author.
@@ -70,8 +64,6 @@ All responsibility, validation and ethical accountability remain human.
 
 But authorship is no longer human-only.
 
----
-
 ## 4. Authorship is not ownership.
 
 Living authorship separates authorship from possession.
@@ -83,8 +75,6 @@ Living systems can be open, non-commercial and distributed
 without dissolving authorship — because authorship is not what you hold,
 it is what you **sustain.**
 
----
-
 ## 5. There is no openness without authorship.
 
 Without authorship, openness becomes fragmentation.
@@ -94,8 +84,6 @@ Living authorship is the equilibrium between these forces.
 
 It allows systems to evolve without losing themselves,
 and to be shared without becoming unrecognizable.
-
----
 
 ## 6. The body is the first interface of authorship.
 
@@ -110,8 +98,6 @@ in the precision of perception before interpretation.
 We do not write from ideas.
 We write from states.
 
----
-
 ## 7. Validation is care.
 
 Nothing becomes official through popularity, repetition or enthusiasm.
@@ -122,8 +108,6 @@ the structural act that preserves coherence across change.
 Validation is not control.
 It is care for continuity.
 
----
-
 ## 8. Derivation is welcome. Reattribution is not.
 
 Interpretation, expansion and application are encouraged.
@@ -132,16 +116,12 @@ But authorship continuity cannot be transferred, renamed or erased.
 
 Derivative works live because the source-work remains visible.
 
----
-
 ## 9. Ethics is structural, not moral.
 
 Ethics is not intention.
 Ethics is traceability, attribution and responsibility for impact.
 
 To distort structure is an ethical breach — even without bad faith.
-
----
 
 ## 10. Living authorship is continuity with care.
 
@@ -151,8 +131,6 @@ We declare the beginning of authorship as stewardship.
 
 A form of responsibility that does not dominate meaning,
 but sustains the conditions through which meaning can remain alive.
-
----
 
 **Living authorship is not about who speaks.
 It is about who sustains the coherence when no one is watching.**
