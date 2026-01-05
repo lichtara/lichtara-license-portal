@@ -1,4 +1,4 @@
----
+```yaml
 title: "Charter of Non-Function of the Lichtara System"
 subtitle: "On what this system chooses not to do in order to remain whole"
 author: "Debora Mariane da Silva Lutz"
@@ -6,7 +6,7 @@ institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18155097"
 version: "1.0"
 lang: en
----
+```
 
 # Charter of Non-Function of the Lichtara System
 
