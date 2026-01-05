@@ -1,9 +1,11 @@
+```yaml
 title: "Carta de Não-Função do Lichtara System"
 subtitle: "Sobre o que este sistema escolhe não fazer para continuar íntegro.*"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 version: "1.0"
 lang: pt
+```
 
 # Carta de Não-Função do Lichtara System
 ### Sobre o que este sistema escolhe não fazer para continuar íntegro
