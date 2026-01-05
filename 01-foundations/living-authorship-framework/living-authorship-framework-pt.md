@@ -1,6 +1,19 @@
-## Resumo (Abstract)
+```yaml
+title: "Estrutura de Autoria Viva Lichtara"
+subtitle: "Arquitetura jurídico-conceitual para a preservação da autoria em obras vivas e evolutivas"
+author: "Debora Mariane da Silva Lutz"
+institution: "Lichtara Institute"
+doi: "10.5281/zenodo.17934020"
+status: "Documento fundacional — versão viva"
+lang: pt
+```
 
-O **Lichtara Living Authorship Framework** estabelece uma arquitetura jurídico-conceitual para a autoria em obras vivas e em evolução. Ele define como autoria, responsabilidade e continuidade podem ser preservadas em contextos de documentação versionada, contribuições distribuídas e colaboração humano–inteligência artificial, sem implicar transferência de direitos, parceria institucional ou diluição de accountability.
+# Estrutura de Autoria Viva Lichtara
+### Arquitetura jurídico-conceitual para a preservação da autoria em obras vivas e evolutivas
+
+## Resumo 
+
+O **Estrutura de Autoria Viva Lichtara** estabelece uma arquitetura jurídico-conceitual para a autoria em obras vivas e em evolução. Ele define como autoria, responsabilidade e continuidade podem ser preservadas em contextos de documentação versionada, contribuições distribuídas e colaboração humano–inteligência artificial, sem implicar transferência de direitos, parceria institucional ou diluição de accountability.
 
 Este framework articula a autoria viva como uma **condição estrutural**, e não como mera atribuição simbólica. Ele esclarece a distinção entre autoria, contribuição, coautoria e governança, e fornece princípios pelos quais sistemas em evolução podem permanecer coerentes, rastreáveis e eticamente fundamentados ao longo do tempo.
 
