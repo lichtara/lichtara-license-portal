@@ -16,7 +16,7 @@ The Lichtara Living Authorship Framework establishes a juridical-conceptual arch
 
 This framework articulates living authorship as a structural condition rather than a symbolic attribution. It clarifies the distinction between authorship, contribution, co-authorship, and governance, and provides principles through which evolving systems may remain coherent, traceable, and ethically grounded over time.
 
-As a canonical component of the Lichtara System, this document operates in formal coherence with the Lichtara License v4 — Structural Living License and the Lichtara Governance Framework, supporting non-commercial, open-access, and versioned knowledge systems governed by care, responsibility, and continuity.
+As a canonical component of the Lichtara System, this document operates in formal coherence with the Lichtara License v4.1 and the Lichtara Governance Framework, supporting non-commercial, open-access, and versioned knowledge systems governed by care, responsibility, and continuity.
 
 ---
 
@@ -883,7 +883,7 @@ This documentation does not replace adjudication, but supports informed interpre
 
 This document operates in formal coherence with:
 
-* the Lichtara License v4 — Structural Living License;
+* the Lichtara Lichtara License v4.1;
 * the Lichtara Governance Framework;
 * other canonical, versioned documents of the Lichtara System.
 
