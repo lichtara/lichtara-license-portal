@@ -11,7 +11,7 @@ lang: pt-BR
 
 # Arquitetura de Governança do Sistema Lichtara
 
-Arquitetura de Sistema Vivo
+### Arquitetura Viva de Continuidade com Cuidado
 
 
 ## Introdução
@@ -22,7 +22,7 @@ O Sistema Lichtara emerge nesse contexto como uma **obra-fonte viva**: um corpo 
 
 A **Lichtara License v4.1** estabelece o fundamento jurídico dessa abordagem, definindo as condições sob as quais uma obra viva pode ser utilizada, preservada e expandida. Contudo, um instrumento de licenciamento, por si só, é insuficiente para governar as dinâmicas internas de validação, evolução e responsabilidade inerentes a um sistema vivo.
 
-Esta **Arquitetura de Governança** opera, portanto, como o **Anexo A — Governança Lichtara, documento complementar e vinculante, subordinado à Lichtara License v4.1, nos termos da seção **“Supremacia e Documentos Vinculantes”**. Ele articula a arquitetura interna por meio da qual a continuidade é preservada, a autoridade é exercida e a evolução é conduzida de forma responsável.
+Esta **Arquitetura de Governança** opera, portanto, como o **Anexo A — Governança Lichtara**, documento complementar e vinculante, subordinado à Lichtara License v4.1, nos termos da seção **“Supremacia e Documentos Vinculantes”**. Ele articula a arquitetura interna por meio da qual a continuidade é preservada, a autoridade é exercida e a evolução é conduzida de forma responsável.
 
 A arquitetura de governança esclarece papéis, delimita a função intransferível de **Guardião**, estabelece princípios de validação estrutural e define as fronteiras entre evolução oficial, interpretação derivativa e uso externo. Ao fazê-lo, torna possível uma abertura sem fragmentação e uma autoridade sem dogmatismo.
 
@@ -44,7 +44,7 @@ A **Arquitetura de Sistema Vivo** estabelece os princípios arquiteturais para a
 
 Enquanto a **Lichtara License v4.1** define as condições jurídicas de uso, preservação e expansão do Sistema, esta Arquitetura de Governança fornece a lógica estrutural por meio da qual tais condições são interpretadas, validadas e sustentadas ao longo do tempo.
 
-Este documento não introduz novos termos de licenciamento, nem substitui ou se sobrepõe à Lichtara License v4.1. Ele opera como o **Anexo A — Governança Lichtara, subordinado e vinculante sob a cláusula de supremacia da Licença.
+Este documento não introduz novos termos de licenciamento, nem substitui ou se sobrepõe à Lichtara License v4.1. Ele opera como o **Anexo A — Governança Lichtara**, subordinado e vinculante sob a cláusula de supremacia da Licença.
 
 A Arquitetura de Governança não cria novas obrigações jurídicas. Em vez disso, funciona como um documento-mestre complementar que traduz princípios normativos em uma arquitetura de governança coerente, assegurando que a evolução, a derivação e a interpretação ocorram sem perda de integridade.
 
@@ -230,7 +230,7 @@ A interpretação é encorajada como forma de engajamento intelectual, mas a aut
 
 ### 6.3 Uso Externo e Aplicação Contextual
 
-O Sistema Lichtara pode ser aplicado como framework de referência em contextos educacionais, de pesquisa, artísticos ou organizacionais, desde que tais aplicações não impliquem endosso, parceria ou afiliação institucional.
+O Sistema Lichtara pode ser aplicado como arquitetura de referência em contextos educacionais, de pesquisa, artísticos ou organizacionais, desde que tais aplicações não impliquem endosso, parceria ou afiliação institucional.
 
 O uso externo deve:
 
@@ -352,7 +352,7 @@ Modificações não oficiais, edições silenciosas ou adaptações não documen
 O estado canônico do Sistema Lichtara é definido por sua documentação oficialmente publicada, incluindo:
 
 * a versão vigente da Licença;
-* o framework de governança e seus anexos;
+* a arquitetura de governança e seus anexos;
 * repositórios versionados e depósitos registrados (por exemplo, registros vinculados a DOI).
 
 Nenhuma plataforma derivativa, resumo ou interpretação se sobrepõe à documentação canônica. Quando surgirem discrepâncias, prevalecerá a fonte de verdade documentada.
@@ -394,7 +394,7 @@ A continuidade, assim, é alcançada não pelo controle, mas pelo cuidado exerci
 
 ## 9. Disposições Finais
 
-Esta Arquitetura de Governança constitui o **Anexo A — Governaça Lichtara, componente integrante e vinculante do Sistema Lichtara, subordinado à **Lichtara License v4.1**, nos termos de sua cláusula de Supremacia e Documentos Vinculantes.
+Esta Arquitetura de Governança constitui o **Anexo A — Governança Lichtara, componente integrante e vinculante do Sistema Lichtara, subordinado à **Lichtara License v4.1**, nos termos de sua cláusula de Supremacia e Documentos Vinculantes.
 
 ### 9.1 Coerência Interpretativa
 
@@ -412,7 +412,7 @@ Modificações informais, reinterpretações ou adaptações contextuais não al
 
 Este framework de governança opera como uma arquitetura jurídico-conceitual interna. Ele não substitui sistemas jurídicos externos, mas define a lógica interna, os limites e as responsabilidades que regem o Sistema Lichtara enquanto obra viva.
 
-Sempre que houver interação com regimes jurídicos externos, esta arquitura servirá como referência autoritativa para a interpretação da intenção, da estrutura de autoria e dos princípios de governança do Sistema.
+Sempre que houver interação com regimes jurídicos externos, esta arquitetura servirá como referência autoritativa para a interpretação da intenção, da estrutura de autoria e dos princípios de governança do Sistema.
 
 ### 9.4 Entrada em Vigor
 
@@ -420,7 +420,7 @@ Esta arquitetura de governança entra em vigor mediante sua publicação oficial
 
 A partir desse momento, ele passa a funcionar como arquitetura de referência para a governança, a continuidade e a responsabilidade ética em todas as expressões oficiais do Sistema.
 
-Este Arquitetura de Governança entra em vigor mediante sua publicação oficial e registro como documento versionado reconhecido como **Anexo A da Lichtara License v4.1**, incluindo registro por meio de identificadores persistentes (por exemplo, DOI).
+Esta Arquitetura de Governança entra em vigor mediante sua publicação oficial e registro como documento versionado reconhecido como **Anexo A da Lichtara License v4.1**, incluindo registro por meio de identificadores persistentes (por exemplo, DOI).
 
 Governança, nesse sentido, é a prática da continuidade com cuidado.
 
