@@ -63,17 +63,12 @@ The purpose of this Governance Framework is to define the structural mechanisms 
 
 Specifically, this document aims to:
 
-establish governance as an intrinsic architectural layer of the System;
-
-define roles, functions, and responsibilities involved in validation and continuity;
-
-articulate how structural change may occur without compromising the identity of the source-work;
-
-provide criteria for distinguishing legitimate evolution from distortion or misrepresentation;
-
-clarify the relationship between the source-work and derivative or referential uses;
-
-situate artificial intelligence as a structural contributor without decision authority.
+* establish governance as an intrinsic architectural layer of the System;
+* define roles, functions, and responsibilities involved in validation and continuity;
+* articulate how structural change may occur without compromising the identity of the source-work;
+* provide criteria for distinguishing legitimate evolution from distortion or misrepresentation;
+* clarify the relationship between the source-work and derivative or referential uses;
+* situate artificial intelligence as a structural contributor without decision authority.
 
 The scope of this framework is limited to governance architecture. It addresses how the System is governed, not how it is applied in specific contexts.
 
