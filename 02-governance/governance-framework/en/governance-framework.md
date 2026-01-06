@@ -7,7 +7,7 @@ author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
 doi: "10.5281/zenodo.18095920"
 lang: pt-BR
-```yaml
+```
 
 # Lichtara Governance Framework  
 ## Living System Architecture
