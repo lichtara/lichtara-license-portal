@@ -2,12 +2,13 @@
 title: "Arquitetura de Autoria Viva do Sistema Lichtara"
 subtitle: "Arquitetura da Obra-Fonte"
 version: "1.0"
+status: "canonical"
+license: "Lichtara License v4.1"
 doi: 10.5281/zenodo.18158573
 lang: "pt-BR"
 ```
 # Arquitetura de Autoria Viva do Sistema Lichtara 
 ### Arquitetura da Obra-Fonte
-
 
 ## Resumo
 
@@ -169,7 +170,7 @@ Sistemas vivos podem expandir-se sem perder identidade, mas apenas quando a expa
 
 A acumulação ocorre quando adições se agregam sem referência à obra-fonte. A evolução, em contraste, caracteriza-se por movimento intencional ao longo de uma linha coerente de responsabilidade autoral.
 
-Este framework distingue crescimento de deriva. O crescimento fortalece a coerência interna do Sistema; a deriva a dispersa.
+Esta arquitetura distingue crescimento de deriva. O crescimento fortalece a coerência interna do Sistema; a deriva a dispersa.
 
 ### 3.5 Proteção contra a Fragmentação
 
@@ -209,7 +210,7 @@ No Sistema Lichtara, a coautoria pode ocorrer quando um colaborador:
 
 * participa diretamente da conformação conceitual, arquitetural ou normativa do Sistema;
 * contribui de modo a afetar a estrutura interna da obra;
-* atua dentro do framework de validação definido pela autoria e pela governança.
+* atua dentro da arquitetura de validação definido pela autoria e pela governança.
 
 A coautoria estrutural não implica soberania compartilhada sobre o Sistema. Ela não confere autoridade independente para redefinir, validar ou representar a obra como oficial fora da estrutura de governança estabelecida.
 
@@ -305,7 +306,7 @@ Conteúdos gerados por IA não ingressam, por padrão, na estrutura canônica do
 
 Reconhecer a inteligência artificial como coautora estrutural não constitui delegação de autoridade autoral.
 
-Este framework evita dois erros simétricos:
+Esta arquitetura evita dois erros simétricos:
 
 * negar o impacto estrutural real das contribuições da IA;
 * atribuir agência ou responsabilidade onde elas não podem existir.
@@ -624,7 +625,7 @@ Existe uma distinção fundamental entre **obras derivativas** e **continuidade 
 
 A continuidade oficial refere-se exclusivamente a evoluções versionadas da obra-fonte que sejam:
 
-* validadas no âmbito do framework de governança;
+* validadas no âmbito do arquitetura de governança;
 * explicitamente documentadas como versões oficiais;
 * rastreáveis à responsabilidade autoral.
 
@@ -684,7 +685,7 @@ Isso inclui evitar:
 
 * a reutilização de títulos oficiais de documentos sem diferenciação clara;
 * a replicação de linguagem de governança que sugira autoridade;
-* a apresentação de extratos parciais como frameworks completos;
+* a apresentação de extratos parciais como arquitetura completos;
 * a conflação entre comentário pessoal e documentação canônica.
 
 A clareza de fronteiras protege tanto o criador derivativo quanto a integridade do Sistema.
@@ -728,7 +729,7 @@ As seguintes situações **não** constituem delegação de autoria ou de autori
 * colaboração ou consultoria;
 * criação de obras derivativas, independentemente de sua qualidade ou escala.
 
-Qualquer delegação de autoridade estrutural exigiria reconhecimento explícito, documentado e validado no âmbito do framework de governança. Na ausência de tal validação, nenhuma autoridade é conferida.
+Qualquer delegação de autoridade estrutural exigiria reconhecimento explícito, documentado e validado no âmbito da arquitetura de governança. Na ausência de tal validação, nenhuma autoridade é conferida.
 
 ### 10.3 Proibição de Reatribuição
 
@@ -738,7 +739,7 @@ Reatribuição inclui:
 
 * apresentar o Sistema como originário de outro autor, grupo ou instituição;
 * rebatizar o Sistema sob reivindicações alternativas de autoria;
-* subsumir o Sistema em frameworks mais amplos sem atribuição;
+* subsumir o Sistema em frameworks(arquiteturas) mais amplos sem atribuição;
 * remover ou obscurecer referências à obra-fonte, à versão ou ao DOI.
 
 Tais ações rompem a continuidade autoral e constituem apropriação indevida, independentemente da intenção.
@@ -834,7 +835,7 @@ Essa função interpretativa oferece clareza em contextos como publicação, cit
 
 ### 11.3 Uso Institucional e Alinhamento
 
-Instituições podem referenciar, estudar ou aplicar o **Lichtara Living Authorship Framework** em contextos acadêmicos, de pesquisa, educacionais ou organizacionais, desde que tal uso:
+Instituições podem referenciar, estudar ou aplicar o **Arquitetura de Autoria Viva do Sistema Lichtara** em contextos acadêmicos, de pesquisa, educacionais ou organizacionais, desde que tal uso:
 
 * não implique endosso institucional nem parceria formal;
 * respeite os requisitos de não comercialidade e atribuição da **Lichtara License v4.1**;
@@ -845,18 +846,18 @@ O engajamento institucional não confere status de autoria, direitos de governan
 
 ### 11.4 Clareza Jurídica por Meio da Documentação
 
-Este framework contribui para a clareza jurídica por meio da manutenção de documentação disciplinada, versionamento e rastreabilidade.
+Esta arquitetura contribui para a clareza jurídica por meio da manutenção de documentação disciplinada, versionamento e rastreabilidade.
 
 Em caso de ambiguidade, controvérsia ou incerteza interpretativa, os registros versionados do Sistema, os documentos de governança e as declarações de autoria oferecem evidência contextual de intenção, estrutura e responsabilidade.
 
 Essa documentação não substitui a adjudicação, mas sustenta interpretações informadas.
 
-### 11.5 Coerência entre Frameworks
+### 11.5 Coerência entre Arquiteturas
 
 Este documento opera em coerência formal com:
 
 * a **Lichtara License v4.1**;
-* o **Lichtara Governance Framework**;
+* a **Arquitetura de Governaça Lichtara**;
 * outros documentos canônicos e versionados do Sistema Lichtara.
 
 Em conjunto, esses instrumentos formam uma arquitetura em camadas que permite ao Sistema dialogar com ambientes jurídicos e institucionais externos, preservando, ao mesmo tempo, a coerência interna, a continuidade autoral e o alinhamento ético.
@@ -867,7 +868,7 @@ Por meio dessa relação, o Sistema Lichtara permanece juridicamente legível se
 
 ### 12.1 Coerência Interpretativa
 
-Este framework deve ser interpretado como um todo coerente.
+Esta arquitetura deve ser interpretado como um todo coerente.
 
 Nenhuma seção pode ser isolada, aplicada seletivamente ou reinterpretada de modo que contradiga os princípios estruturais de autoria viva, continuidade, governança e responsabilidade ética aqui estabelecidos.
 
@@ -877,13 +878,13 @@ A interpretação deve preservar a integridade do Sistema, e não fragmentar o s
 
 Este documento somente poderá ser alterado por meio de publicações versionadas, formalmente validadas e reconhecidas como parte da estrutura canônica do Sistema Lichtara.
 
-Modificações informais, adaptações contextuais ou articulações derivativas não alteram o status autoritativo deste framework.
+Modificações informais, adaptações contextuais ou articulações derivativas não alteram o status autoritativo desta arquitetura.
 
 Cada versão permanece como um estado histórico válido, portando seu próprio contexto e limites interpretativos.
 
 ### 12.3 Entrada em Vigor
 
-Este framework entra em vigor mediante sua publicação oficial como documento versionado reconhecido no âmbito do Sistema Lichtara.
+Esta arquitetura entra em vigor mediante sua publicação oficial como documento versionado reconhecido no âmbito do Sistema Lichtara.
 
 A partir desse momento, passa a funcionar como a referência autoritativa para a arquitetura de autoria viva em todas as expressões presentes e futuras do Sistema.
 
@@ -891,8 +892,10 @@ A partir desse momento, passa a funcionar como a referência autoritativa para a
 
 O Sistema Lichtara afirma que a autoria em obras vivas não se sustenta por controle, clausura ou afirmação de poder.
 
-Ela se sustenta por responsabilidade, documentação, clareza ética e cuidado com a continuidade.
+Ela se sustenta em responsabilidade, documentação, clareza ética e cuidado com a continuidade.
 
-Por meio deste framework, a autoria torna-se uma prática de **zeladoria** em vez de posse, permitindo que um sistema vivo evolua sem perder a si mesmo e permaneça aberto sem dissolver a sua fonte.
+Por meio desta arquitetura, a autoria torna-se uma prática de **zeladoria** em vez de posse, permitindo que um sistema vivo evolua sem perder a si mesmo e permaneça aberto sem dissolver a sua fonte.
 
 Autoria viva, nesse sentido, é continuidade com cuidado. 
+
+*Documento reconhecido como parte da estrutura canônica do Sistema Lichtara, nos termos da Lichtara License v4.1.*
