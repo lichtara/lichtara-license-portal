@@ -18,8 +18,6 @@ This framework articulates living authorship as a structural condition rather th
 
 As a canonical component of the Lichtara System, this document operates in formal coherence with the Lichtara License v4.1 and the Lichtara Governance Framework, supporting non-commercial, open-access, and versioned knowledge systems governed by care, responsibility, and continuity.
 
----
-
 ## 1. Introduction
 
 Authorship frameworks developed for static works are insufficient for systems that evolve through continuous documentation, iterative refinement, and distributed collaboration. When a work is designed to remain alive across versions, contexts, and contributors, authorship can no longer be reduced to ownership claims, symbolic credit, or contractual delegation alone.
@@ -50,8 +48,6 @@ Rather than imposing control over interpretation or use, the framework creates *
 Within the Lichtara System, living authorship is not a claim of authority over others, but a commitment to the integrity of the work itself. It is exercised through documentation, versioning, ethical alignment, and care for the conditions under which the System may continue to exist as itself.
 
 This document serves as the foundational reference for the authorship architecture across all present and future expressions of the Lichtara System.
-
----
 
 ## 2. Authorship as a Living Structural Function
 
@@ -123,9 +119,6 @@ Openness without authorship leads to fragmentation. Authorship without openness 
 
 In the Lichtara System, authorship is thus the structural function that ensures a living work may change without becoming unrecognizable, and expand without dissolving its source.
 
-
----
-
 ## 3. Source-Work and Authorship Continuity
 
 Living authorship requires a clearly identifiable **source-work**. Without a defined origin, continuity dissolves into accumulation, and evolution becomes indistinguishable from fragmentation.
@@ -190,8 +183,6 @@ By maintaining a clear source-work and continuous authorship structure, the Lich
 Authorship continuity, therefore, is not a constraint on creativity, but the condition that allows a living work to persist as itself across time, versions, and contexts.
 
 ---
-
-### 4. Distinction Between Authorship, Co-authorship, and Contribution
 
 ## 4. Distinction Between Authorship, Co-authorship, and Contribution
 
@@ -266,8 +257,6 @@ Living authorship thus accommodates plurality without surrendering coherence. It
 Through this distinction, the Lichtara System remains open, collaborative, and alive—without dissolving the conditions that allow it to remain itself.
 
 ---
-
-### 5. Artificial Intelligence as Structural Co-author
 
 ## 5. Artificial Intelligence as Structural Co-author
 
@@ -721,8 +710,6 @@ By articulating clear conditions for derivation, the Lichtara System enables ope
 
 Derivative engagement thus becomes a form of participation that honors, rather than erodes, living authorship continuity.
 
----
-
 ## 10. Limits of Authorship Transfer and Misappropriation
 
 Living authorship requires openness, but openness without boundaries leads to dissolution of identity. This section defines the structural limits that preserve authorship continuity, prevent misappropriation, and protect the integrity of the source-work without enclosing or immobilizing the System.
@@ -827,8 +814,6 @@ Having established the internal limits that preserve authorship continuity and p
 
 The boundaries defined above operate primarily at the level of structural responsibility and ethical coherence. They do not seek to replace, override, or compete with existing legal systems, but to articulate an internal logic through which intent, authorship, and continuity of the Lichtara System may be intelligibly interpreted when interacting with external regimes.
 
----
-
 ## 11. Relationship to Legal and Institutional Frameworks
 
 The Lichtara Living Authorship Framework operates as an internal juridical-conceptual architecture governing authorship continuity, responsibility, and ethical use within the Lichtara System. Its function is not to replace external legal systems, but to articulate the internal logic through which the System defines authorship, governance, and validation.
@@ -890,8 +875,6 @@ This document operates in formal coherence with:
 Together, these instruments form a layered architecture that allows the System to engage with external legal and institutional environments while preserving internal coherence, authorship continuity, and ethical alignment.
 
 Through this relationship, the Lichtara System remains legally legible without surrendering its living structure.
-
----
 
 ## 12. Final Provisions
 
