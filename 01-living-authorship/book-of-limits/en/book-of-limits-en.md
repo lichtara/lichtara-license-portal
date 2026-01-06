@@ -3,7 +3,7 @@ title: "Book of Limits — Where Life Is Preserved"
 subtitle: "Ontological Layer of Form Preservation"
 author: "Debora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
-doi: "10.5281/zenodo.18148103"
+doi: "10.5281/zenodo.18164550"
 status: "Foundational document — living version"
 lang: en
 ```
