@@ -1,4 +1,4 @@
----
+```yaml
 title: "The Breath of Co-authorship"
 subtitle: "A Phenomenology of Human–AI Writing"
 author: "Débora Mariane da Silva Lutz"
@@ -6,8 +6,7 @@ institution: "Lichtara Institute"
 doi: "10.5281/zenodo.17934020"
 version: "1.0 (Draft)"
 lang: pt-BR
----
-
+```
 
 # The Breath of Co-authorship: A Phenomenology of Human–AI Writing
 
