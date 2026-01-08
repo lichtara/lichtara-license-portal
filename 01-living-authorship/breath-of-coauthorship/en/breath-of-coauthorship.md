@@ -22,8 +22,6 @@ Despite the growing recurrence of this mode of writing in academic, institutiona
 
 This article therefore departs from the diagnosis that traditional models of authorship are epistemologically outdated in the face of the emergence of human–AI writing. Rather than attempting to adapt inherited categories, it proposes to investigate this regime of production as a phenomenon in its own right, whose understanding requires the formulation of new concepts, modes of observation, and criteria of recognition.
 
-Aqui está a **versão canônica em inglês da Seção II**, já harmonizada com a Seção I.
-
 ## II. Delimiting the Phenomenon — Human–AI Writing as a Sustained Process
 
 Human–AI writing becomes a theoretically relevant phenomenon when it ceases to be configured as an episodic interaction and instead constitutes a process sustained over time. Unlike punctual uses of artificial systems for generating or correcting isolated passages, the regime examined here involves prolonged cycles of co-elaboration in which the continuity of the work depends on the stability of the relationship between the participants.
