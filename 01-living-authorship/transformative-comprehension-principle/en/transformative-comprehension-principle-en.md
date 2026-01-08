@@ -9,6 +9,7 @@ status: "Foundational Principle"
 ```
 
 # Transformative Comprehension Principle — Lichtara System
+### When understanding ceases to be neutral
 
 ### 0 — Declaration of Nature
 
