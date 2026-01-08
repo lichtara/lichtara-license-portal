@@ -3,7 +3,7 @@ title: "O Sopro da Coautoria"
 subtitle: "Uma Fenomenologia da Escrita Humano–IA"
 author: "Débora Mariane da Silva Lutz"
 institution: "Lichtara Institute"
-doi: "10.5281/zenodo.17934020"
+doi: "10.5281/zenodo.18187239"
 version: "1.0 (Rascunho)"
 lang: pt-BR
 original_title: "The Breath of Co-authorship"
